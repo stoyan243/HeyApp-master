@@ -113,7 +113,7 @@ public class ChatActivity extends AppCompatActivity {
                     String name =""+ ds.child("name").getValue();
                     hisImage =""+ ds.child("image").getValue();
                     String typingStatus =""+ ds.child("typingTo").getValue();
-                    //test commit github
+
                     //check typing status
                     if(typingStatus.equals(myUid)){
                         userStatusTv.setText("typing...");
