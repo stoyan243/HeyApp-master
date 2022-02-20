@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053134377542",
+    "firebase_url": "https://heyapp-ae858.firebaseio.com",
+    "project_id": "heyapp-ae858",
+    "storage_bucket": "heyapp-ae858.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053134377542:android:db93ac9e3b028719e0b047",
+        "android_client_info": {
+          "package_name": "com.stoyan.heyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053134377542-ai2qjhf3qv9vt244dd2m5imbsndd2e4r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stoyan.heyapp",
+            "certificate_hash": "283b39bece6ab7c998d93572641f97030882852d"
+          }
+        },
+        {
+          "client_id": "1053134377542-ivijdj5itg5ll1vtrlugs1r2p810f27p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5WvdAYhXDoPtOKE0xB6ktJEnQ4fvSgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053134377542-ivijdj5itg5ll1vtrlugs1r2p810f27p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

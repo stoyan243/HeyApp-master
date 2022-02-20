@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HeyApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="registers">Register</string>
+    <string name="registered">Register</string>
+    <string name="already_have_account_login">Already have account? Login</string>
+    <string name="not_have_account_register">Not have account?Register</string>
+    <string name="forgot_password_recover">Forgot Password? Recover</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="users">Users</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="person_name">Person Name</string>
+    <string name="person_email">Person Email</string>
+    <string name="search">Search</string>
+</resources>
