@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/Documents/HeyApp-master/app/src/main/res/layout/activity_chat.xml" value="0.12685185185185185" />
+        <entry key="..\:/Users/User/Documents/HeyApp-master/app/src/main/res/layout/row_chat_left.xml" value="0.12962962962962962" />
+        <entry key="..\:/Users/User/Documents/HeyApp-master/app/src/main/res/layout/row_chat_right.xml" value="0.12962962962962962" />
       </map>
     </option>
   </component>
