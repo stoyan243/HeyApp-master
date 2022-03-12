@@ -183,6 +183,9 @@ public class UsersFragment extends Fragment {
         //inflating emu
         inflater.inflate(R.menu.menu_main, menu);
 
+        //hide add_post icon from this fragment
+        menu.findItem(R.id.action_add_post).setVisible(false);
+
         //SearchView
         MenuItem item = menu.findItem(R.id.action_search);
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(item);

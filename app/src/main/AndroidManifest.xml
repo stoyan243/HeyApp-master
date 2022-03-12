@@ -13,8 +13,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ChatActivity"
-            android:theme="@style/AppThemeNo"/>
+        <activity
+            android:name=".AddPostActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChatActivity"
+            android:theme="@style/AppThemeNo" />
         <activity android:name=".LoginActivity" />
         <activity android:name=".DashboardActivity">
             <intent-filter>
